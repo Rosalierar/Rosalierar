@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9D6AF7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" /></a>
+# <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9D6AF7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG"/></a></p>
 
 <h2 align="center"> Sobre Mim </h2>
  <p align="center">  <samp> Estudande em Programação de C# </samp> </p>
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rosalierar" alt="https://github.com/rosalierar"/>
 </p>
 
-<h2 align="center">  Tech Stack </h2>
+<h2 align="center">  <samp>  Tech Stack </samp> </h2>
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <h2 align="center">
     <a>
@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </h2>
 
-<h2 align="center">  Redes Sociais </h2>
+<h2 align="center"><samp>   Redes Sociais </samp> </h2>
 
 <!-- youtube -->
 <p align="center">
@@ -33,13 +33,10 @@
             alt="youtube subscribers" 
             title="Rosalierar" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChJJAzAIiXRoGriK6DCIUWA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-           </a>
-<!-- Linkedin -->
-    <a href="https://www.linkedin.com/in/rosalierar/">
+       <a href="https://www.linkedin.com/in/rosalierar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn">
     </a>
-<!-- x -->
-     <a href="https://x.com/rosalierarr">
+<!-- x --<a href="https://x.com/rosalierarr">-->
         <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X">
 </h2>
 <!-- Instagram -->
