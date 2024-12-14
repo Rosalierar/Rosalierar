@@ -33,15 +33,25 @@
             alt="youtube subscribers" 
             title="Rosalierar" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChJJAzAIiXRoGriK6DCIUWA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+           </a>
+<!-- Linkedin -->
+    <a href="https://link-para-o-seu-site-ou-recurso">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/" alt="LinkedIn">
     </a>
-</p>
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#)
 
 ### 📊 Estatísticas
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -49,7 +59,7 @@
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalierar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
