@@ -36,7 +36,8 @@
        <a href="https://www.linkedin.com/in/rosalierar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn">
     </a>
-<!-- x --<a href="https://x.com/rosalierarr">-->
+<!-- x --> 
+ <a href="https://x.com/rosalierarr">
         <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X">
 </h2>
 <!-- Instagram -->
