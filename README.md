@@ -40,16 +40,20 @@
     </a>
 <!-- x -->
      <a href="https://x.com/rosalierarr">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="X">
+        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME" alt="X">
 </h2>
-<!-- x -->
-      
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
-[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#)
+<!-- Instagram -->
+      <a href="https://www.instagram.com/rosalierar">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/" alt="Instagram">
+</h2>
+<!-- behance -->
+        <a href="https://www.behance.net/rosalierar">
+        <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" alt="Behance">
+</h2>
+<!-- itch.io -->
+            <a href="https://rosalierar.itch.ioar">
+        <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io">
+</h2>
 
 ### 📊 Estatísticas
 
