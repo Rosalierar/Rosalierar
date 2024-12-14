@@ -36,11 +36,11 @@
            </a>
 <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn">
     </a>
 <!-- x -->
      <a href="https://x.com/rosalierarr">
-        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME" alt="X">
+        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X">
 </h2>
 <!-- Instagram -->
       <a href="https://www.instagram.com/rosalierar">
@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" alt="Behance">
 </h2>
 <!-- itch.io -->
-            <a href="https://rosalierar.itch.ioar">
+            <a href="https://rosalierar.itch.io">
         <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io">
 </h2>
 
