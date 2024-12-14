@@ -35,7 +35,7 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChJJAzAIiXRoGriK6DCIUWA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
            </a>
 <!-- Linkedin -->
-    <a href="https://link-para-o-seu-site-ou-recurso">
+    <a href="https://www.linkedin.com/in/rosalierar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/" alt="LinkedIn">
     </a>
 </h2>
