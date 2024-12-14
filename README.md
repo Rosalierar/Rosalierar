@@ -24,18 +24,15 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </h2>
 
-<h2 align="center"><samp>   Redes Sociais </samp> </h2>
+<h2 align="center"><samp> Redes Sociais </samp> </h2>
 
 <!-- youtube -->
 <p align="center">
-    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Rosalierar" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChJJAzAIiXRoGriK6DCIUWA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-       <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn">
-    </a>
+    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+</h2>
+
+ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <!-- x --> 
  <a href="https://x.com/rosalierarr">
         <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X">
