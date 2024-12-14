@@ -1,6 +1,7 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9D6AF7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" /></a>
-**`Estudande em Programação de C#`**
 
+<h2 align="center"> Sobre Mim </h2>
+ <p align="center">  <samp> Estudande em Programação de C# </samp> </p>
  <p align="center">  <samp> Meu nome é Rosalie Alvesda Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
  </samp>
      <br> <br>
@@ -23,10 +24,10 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </h2>
 
-# 💻 Redes Sociais
+<h2 align="center">  Redes Sociais </h2>
 
 <!-- youtube -->
-<p align="left">
+<p align="center">
     <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
