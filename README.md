@@ -30,6 +30,13 @@
             src="https://custom-icon-badges.demolab.com/github/followers/rosalierar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+   <a href="https://github.com/Rosalierar">
+        <img 
+            alt="Visitors" 
+            title="Visitors no GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/Visitors-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Visualizações"
+        />
+    </a>
 </p>
 
 
