@@ -1,4 +1,9 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG"/> </a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" style="display:block; margin-left:auto; margin-right:auto;"/>
+  </a>
+</p>
+
 
 <p align="center">
  <!-- itch.io -->
