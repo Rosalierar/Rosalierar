@@ -11,7 +11,7 @@
 
 <h2 align="center"> <samp> 💻 Tech Stack </samp> </h2>
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-<h2 align="center">
+<p align="center">
     <a>
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> 
         <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> 
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
-</h2>
+</p>
 
 <h2 align="center"><samp> 🌐 Redes Sociais </samp> </h2>
 <p align="center">
