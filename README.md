@@ -1,5 +1,6 @@
 # <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" /></a>
 
+
 <p align="center">
    <a href="https://www.youtube.com/@rosalierar?sub_confirmation=1">
         <img 
@@ -50,12 +51,12 @@
                  <!-- x --> 
  <a href="https://x.com/rosalierarr">
         <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X"> </a>
-               <!-- youtube -->
-    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"> </a>
 <!-- behance -->
         <a href="https://www.behance.net/rosalierar">
         <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a>
+            <!-- youtube -->
+    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"> </a>
 </p>
 <!-- sobre mim -->
 
