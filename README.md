@@ -1,7 +1,4 @@
-# <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" /></a>
-
-<!-- Redes sociais -->
-<h2 align="center"><samp> 🌐 Redes Sociais </samp> </h2>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG"/> </a>
 
 <p align="center">
  <!-- itch.io -->
