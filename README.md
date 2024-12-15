@@ -1,4 +1,49 @@
-# <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9D6AF7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG"/></a></p>
+# <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://www.youtube.com/c/rosalierar">
+    <img alt="rosalierar YouTube views" title="YouTube views" src="https://link-da-imagem-do-badge.com" width="200" height="50" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/c/rosalierar">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/rosalierar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rosalierar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/rosalilerar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rosalierar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/rosalierar/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+<!-- Redes sociais -->
+<h2 align="center"><samp> 🌐 Redes Sociais </samp> </h2>
+
+<p align="center">
+ <!-- itch.io -->
+            <a href="https://rosalierar.itch.io">
+        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
+            </a>
+ <!-- Instagram -->
+      <a href="https://www.instagram.com/rosalierar">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalierar/" alt="Instagram"> </a>
+   <!--linkedin --> 
+      <a href="https://www.linkedin.com/in/rosalierar/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn"> </a>
+    </a>
+                 <!-- x --> 
+ <a href="https://x.com/rosalierarr">
+        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X"> </a>
+               <!-- youtube -->
+    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"> </a>
+<!-- behance -->
+        <a href="https://www.behance.net/rosalierar">
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a>
+</p>
+<!-- sobre mim -->
 
 <h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
  <p align="center">  
@@ -10,6 +55,7 @@
 </h1>
 
 <h2 align="center"> <samp> 💻 Tech Stack </samp> </h2>
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <p align="center">
     <a>
@@ -25,30 +71,6 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </p>
 
-<h2 align="center"><samp> 🌐 Redes Sociais </samp> </h2>
-<p align="center">
-<!-- behance -->
-        <a href="https://www.behance.net/rosalierar">
-        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a>
-<!-- Instagram -->
-      <a href="https://www.instagram.com/rosalierar">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/" alt="Instagram"> </a>
-<!-- itch.io -->
-            <a href="https://rosalierar.itch.io">
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
-            </a>
-             <!--linkedin --> 
-      <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn"> </a>
-    </a>
-              <!-- x --> 
- <a href="https://x.com/rosalierarr">
-        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X"> </a>
-            <!-- youtube -->
-    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"> </a>
-</p>
- 
 <h2 align="center"> <samp> 📊 Estatísticas </samp> </h2>
 
  <p align="center">
@@ -67,4 +89,4 @@
   />
 </p>
 
-<h2 align="center"> <samp> 🗃 Meus Repositórios </samp> </h2>
+<h2 align="center"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
