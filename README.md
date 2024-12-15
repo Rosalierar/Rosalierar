@@ -34,7 +34,7 @@
         <img 
             alt="Visitors" 
             title="Visitors no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Visitors-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Visualizações"
+            src="https://komarev.com/ghpvc/?username=rosalierar&label=Visitors&color=7346c8&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white" alt="Visualizações"
         />
     </a>
 </p>
