@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://www.youtube.com/c/rosalierar">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
