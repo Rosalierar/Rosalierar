@@ -34,10 +34,11 @@
         <img 
             alt="Visitors" 
             title="Visitors no GitHub" 
-            src="https://komarev.com/ghpvc/?username=rosalierar&label=Visitors&color=666666&labelColor=00BFFF&style=for-the-badge&logo=github&logoColor=white" alt="Visualizações" alt="Visualizações"
+            src="https://komarev.com/ghpvc/?username=rosalierar&label=⚆_Visitors&color=666666&labelColor=00BFFF&style=for-the-badge&logo=github&logoColor=white" alt="Visualizações" alt="Visualizações"
         />
     </a>
 </p>
+
 
 
 <!-- Redes sociais -->
