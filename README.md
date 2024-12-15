@@ -30,11 +30,11 @@
             src="https://custom-icon-badges.demolab.com/github/followers/rosalierar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-   <a href="https://github.com/Rosalierar">
+    <a href="https://github.com/Rosalierar">
         <img 
             alt="Visitors" 
             title="Visitors no GitHub" 
-            src="https://komarev.com/ghpvc/?username=rosalierar&label=Visitors&color=7346c8&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white" alt="Visualizações"
+            src="https://komarev.com/ghpvc/?username=rosalierar&label=Visitors&color=666666&labelColor=00BFFF&style=for-the-badge&logo=github&logoColor=white" alt="Visualizações" alt="Visualizações"
         />
     </a>
 </p>
