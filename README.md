@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG" style="display:block; margin-left:auto; margin-right:auto;"/>
-  </a>
-</p>
+<p align="Left"> <a href=" https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=435&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves+" alt="Typing SVG"/> </a>
 
-
-<p align="center">
+<p align="left">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
@@ -29,7 +24,7 @@
 </p>
 <!-- sobre mim -->
 
-<h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
+<h2 align="right"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
  <p align="center">  
   <samp> Estudante em Programação de C# </samp> </p>
  <p align="center">   <samp> Meu nome é Rosalie Alves da Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
@@ -74,7 +69,7 @@
 </p>
 </h1>
 
-<h2 align="center"> <samp> 📝 Participações </samp> </h2>
+<h2 align="right"> <samp> 📝 Participações </samp> </h2>
 
 <p align="Left">
   <samp> 
@@ -104,7 +99,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </p>
 
-<h2 align="center"> <samp> 📊 Estatísticas </samp> </h2>
+<h2 align="right"> <samp> 📊 Estatísticas </samp> </h2>
 
  <p align="center">
   <img 
@@ -114,7 +109,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rosalierar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
  
-  <img 
+   <img 
       align="center" 
       alt="GitHub Stats" 
       height="150" 
@@ -122,4 +117,4 @@
   />
 </p>
 
-<h2 align="center"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
+<h2 align="right"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
