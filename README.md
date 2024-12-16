@@ -3,27 +3,24 @@
 <p align="center">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="Itch.io">
             </a>
  <!-- Instagram -->
       <a href="https://www.instagram.com/rosalierar">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalierar/" alt="Instagram"> </a>
-   <!--linkedin 
-      <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn"> </a>
-    </a>-->
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="Instagram"> </a>
+   <!--linkedin -->
     <a href="https://www.linkedin.com/in/rosalierar/">
         <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="LinkedIn"> </a>
     </a>
                  <!-- x --> 
  <a href="https://x.com/rosalierarr">
-        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/rosalierarr" alt="X"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="X"> </a>
 <!-- behance -->
         <a href="https://www.behance.net/rosalierar">
-        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="Behance"> </a>
             <!-- youtube -->
     <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="YouTube"> </a>
 </p>
 <!-- sobre mim -->
 
