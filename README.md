@@ -1,7 +1,5 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=300&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves" alt="Typing SVG" /> </a>
 
-![Linkedin](https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg)
-
 <p align="center">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
@@ -10,9 +8,12 @@
  <!-- Instagram -->
       <a href="https://www.instagram.com/rosalierar">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosalierar/" alt="Instagram"> </a>
-   <!--linkedin --> 
+   <!--linkedin 
       <a href="https://www.linkedin.com/in/rosalierar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalierarr/" alt="LinkedIn"> </a>
+    </a>-->
+    <a href="https://www.linkedin.com/in/rosalierar/">
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="50" alt="LinkedIn"> </a>
     </a>
                  <!-- x --> 
  <a href="https://x.com/rosalierarr">
