@@ -1,5 +1,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7346C8&width=300&lines=Ol%C3%A1!+Eu+sou+Rosalie+Alves" alt="Typing SVG" /> </a>
 
+![Linkedin](https://github.com/Rosalierar/repo/blob/main/imagens/linkedin-svgrepo-com.svg)
+
 <p align="center">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
