@@ -10,7 +10,7 @@
         <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/instagram-svgrepo-com.svg" width ="40" alt="Instagram"> </a>
    <!--linkedin -->
     <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="37" alt="LinkedIn"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="36" alt="LinkedIn"> </a>
     </a>
      <!-- artsation -->
          <a href="https://www.artsation.com/rosalierar">
