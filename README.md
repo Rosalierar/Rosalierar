@@ -3,7 +3,7 @@
 <p align="center">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width ="200" alt="Itch.io">
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width ="100" alt="Itch.io">
             </a>
  <!-- Instagram -->
       <a href="https://www.instagram.com/rosalierar">
@@ -14,17 +14,17 @@
     </a>
                  <!-- x --> 
  <a href="https://x.com/rosalierarr">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/twitter-round-svgrepo-com.svg" width ="30" alt="X"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/twitter-round-svgrepo-com.svg" width ="40" alt="X"> </a>
 <!-- behance -->
         <a href="https://www.behance.net/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/behance-rounded-svgrepo-com.svg" width ="30" alt="Behance"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/behance-rounded-svgrepo-com.svg" width ="40" alt="Behance"> </a>
             <!-- youtube -->
     <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/youtube-168-svgrepo-com.svg" width ="30" alt="YouTube"> </a>
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/youtube-168-svgrepo-com.svg" width ="40" alt="YouTube"> </a>
 </p>
 <!-- sobre mim -->
 
-<h2 align="right"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
+<h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
  <p align="center">  
   <samp> Estudante em Programação de C# </samp> </p>
  <p align="center">   <samp> Meu nome é Rosalie Alves da Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
@@ -69,7 +69,7 @@
 </p>
 </h1>
 
-<h2 align="right"> <samp> 📝 Participações </samp> </h2>
+<h2 align="center"> <samp> 📝 Participações </samp> </h2>
 
 <p align="Left">
   <samp> 
@@ -99,7 +99,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </p>
 
-<h2 align="right"> <samp> 📊 Estatísticas </samp> </h2>
+<h2 align="center"> <samp> 📊 Estatísticas </samp> </h2>
 
  <p align="center">
   <img 
@@ -117,4 +117,4 @@
   />
 </p>
 
-<h2 align="right"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
+<h2 align="center"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
