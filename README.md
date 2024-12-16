@@ -3,7 +3,7 @@
 <p align="center">
  <!-- itch.io -->
             <a href="https://rosalierar.itch.io">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width ="100" alt="Itch.io">
+        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width ="40" alt="Itch.io">
             </a>
  <!-- Instagram -->
       <a href="https://www.instagram.com/rosalierar">
