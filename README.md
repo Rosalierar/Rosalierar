@@ -32,31 +32,6 @@
     </a>
 </p>
 
-<p align="center">
- <!-- itch.io -->
-            <a href="https://rosalierar.itch.io">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width ="40" alt="Itch.io">
-            </a>
- <!-- Instagram -->
-      <a href="https://www.instagram.com/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/instagram-svgrepo-com.svg" width ="40" alt="Instagram"> </a>
-   <!--linkedin -->
-    <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width ="36" alt="LinkedIn"> </a>
-    </a>
-     <!-- artsation -->
-         <a href="https://www.artsation.com/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/artstation-svgrepo-com.svg" width ="37" alt="ArtStation"> </a>
-                 <!-- x --> 
- <a href="https://x.com/rosalierarr">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/twitter-round-svgrepo-com.svg" width ="38" alt="X"> </a>
-<!-- behance 
-        <a href="https://www.behance.net/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/behance-rounded-svgrepo-com.svg" width ="37" alt="Behance"> </a> -->
-            <!-- youtube -->
-    <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/youtube-168-svgrepo-com.svg" width ="40" alt="YouTube"> </a>
-</p>
 <!-- sobre mim -->
 
 <h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
