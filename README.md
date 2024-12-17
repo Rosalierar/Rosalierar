@@ -118,7 +118,8 @@
     height=150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rosalierar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-     
+     />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img 
       align="center" 
       alt="GitHub Stats" 
