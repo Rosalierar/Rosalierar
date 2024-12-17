@@ -23,7 +23,7 @@
      &nbsp;&nbsp;&nbsp;
     <!-- Dev -->
     <a href="https://dev.to/rosalierar">
-        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/dev-to-svgrepo-com.svg" width="45" alt="Dev">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/dev-to-svgrepo-com.svg" width="36" alt="Dev">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- X -->
