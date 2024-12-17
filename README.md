@@ -3,32 +3,32 @@
 <p align="center">
     <!-- itch.io -->
     <a href="https://rosalierar.itch.io">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/itch-io-svgrepo-com.svg" width="40" alt="Itch.io">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/itch-io-svgrepo-com.svg" width="40" alt="Itch.io">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- Instagram -->
     <a href="https://www.instagram.com/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/instagram-svgrepo-com.svg" width="40" alt="Instagram">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/instagram-svgrepo-com.svg" width="40" alt="Instagram">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/rosalierar/">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/linkedin-svgrepo-com.svg" width="36" alt="LinkedIn">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/linkedin-svgrepo-com.svg" width="36" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- ArtStation -->
     <a href="https://www.artstation.com/rosalierar">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/artstation-svgrepo-com.svg" width="37" alt="ArtStation">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/artstation-svgrepo-com.svg" width="37" alt="ArtStation">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- X -->
     <a href="https://x.com/rosalierarr">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/twitter-round-svgrepo-com.svg" width="38" alt="X">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/twitter-round-svgrepo-com.svg" width="38" alt="X">
     </a>
     &nbsp;&nbsp;&nbsp;
     <!-- YouTube -->
     <a href="https://www.youtube.com/channel/UChJJAzAIiXRoGriK6DCIUWA">
-        <img src="https://github.com/Rosalierar/ImageForPerfil/blob/main/youtube-168-svgrepo-com.svg" width="40" alt="YouTube">
+        <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/youtube-168-svgrepo-com.svg" width="40" alt="YouTube">
     </a>
 </p>
 
