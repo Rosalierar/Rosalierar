@@ -45,7 +45,8 @@
  <p align="center">   <samp> Meu nome é Rosalie Alves da Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
  </samp>
      <br> <br>
-<p align="center">
+     
+<p align="center">    <!-- 
    <a href="https://www.youtube.com/@rosalierar?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -59,7 +60,7 @@
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChJJAzAIiXRoGriK6DCIUWA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
+    </a>  -->
     <a href="https://github.com/rosalierar?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
