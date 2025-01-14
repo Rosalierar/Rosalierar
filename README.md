@@ -41,7 +41,7 @@
 
 <h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
  <p align="center">  
-  <samp> Estudante em Programação de C# </samp> </p>
+  <samp> Student in C# Programming </samp> </p>
  <p align="center">   <samp> Meu nome é Rosalie Alves da Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
  </samp>
      <br> <br>
