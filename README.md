@@ -39,9 +39,15 @@
 
 <!-- sobre mim -->
 
-<h2 align="center"> <samp> 🙋‍♀️ Sobre Mim </samp> </h2>
+<h2 align="center"> <samp> 🙋‍♀️ About Me | Sobre Mim </samp> </h2>
  <p align="center">  
   <samp> Student in C# Programming </samp> </p>
+ <p align="center">   <samp> My name is Rosalie Alves da Silva Conceição, I'm 19 years old. I'm a Digital Games student at IFBA, with a strong interest in both Game Design and programming. Currently, I'm also delving into 3D Modeling and Concept Art, looking to expand my skills in various areas of game development. I've been working on practical projects that allow me to explore the creation of games in a complete way, from planning the mechanics, programming and visuals. My goal is to develop my career in the games industry or programming and development, always looking for new challenges to improve my skills and contribute creatively and technically to the development of projects.
+      <p align="center"> . </samp> 
+       <p align="center"> . </samp>
+        <p align="center">  
+  <samp> Estudante em Programação C# </samp> </p>
+      <p align="center">
  <p align="center">   <samp> Meu nome é Rosalie Alves da Silva Conceição, tenho 19 anos. Sou estudante de Jogos Digitais no IFBA, com forte interesse tanto em Game Design quanto em programação. Atualmente, estou me aprofundando também em Modelagem 3D e Concept Art, buscando expandir minhas habilidades em diversas áreas do desenvolvimento de jogos. Tenho trabalhado em projetos práticos que me permitem explorar a criação de jogos de forma completa, desde o planejamento das mecânicas, junto a programação até a parte visual. Meu objetivo é desenvolver minha carreira na indústria de jogos ou programação e desenvolvimento, sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir de forma criativa e técnica para o desenvolvimento de projetos. 
  </samp>
      <br> <br>
@@ -70,7 +76,7 @@
     </a>
    <a href="https://github.com/Rosalierar?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Follows" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/rosalierar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
@@ -85,7 +91,7 @@
 </p>
 </h1>
 
-<h2 align="center"> <samp> 📝 Participações </samp> </h2>
+<h2 align="center"> <samp> 📝 Participations </samp> </h2>
 
 <p align="Left">
   <samp> 
@@ -115,7 +121,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"> 
 </p>
 
-<h2 align="center"> <samp> 📊 Estatísticas </samp> </h2>
+<h2 align="center"> <samp> 📊 Statistics  </samp> </h2>
 
  <p align="center">
   <img 
@@ -134,4 +140,4 @@
   />
 </p>
 
-<h2 align="center"> <samp> 🗂️ Veja Meus Repositórios </samp> </h2>
+<h2 align="center"> <samp> 🗂️ See My Repositories | Veja Meus Repositórios </samp> </h2>
