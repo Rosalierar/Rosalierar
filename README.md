@@ -21,12 +21,12 @@
         <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/artstation-svgrepo-com.svg" width="37" alt="ArtStation">
     </a>
      &nbsp;&nbsp;&nbsp;
-    <!-- Dev -->
+    <!-- Dev 
     <a href="https://dev.to/rosalierar">
         <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/dev-to-svgrepo-com.svg" width="36" alt="Dev">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <!-- X -->
+    <!-- X 
     <a href="https://x.com/rosalierarr">
         <img src="https://github.com/Rosalierar/Rosalierar/blob/main/Imagens/twitter-round-svgrepo-com.svg" width="38" alt="X">
     </a>
