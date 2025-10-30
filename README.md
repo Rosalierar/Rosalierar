@@ -67,7 +67,7 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChJJAzAIiXRoGriK6DCIUWA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>  -->
-    <a href="https://github.com/rosalierar?tab=repositories&sort=stargazers">
+    <!-- <a href="https://github.com/rosalierar?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -80,7 +80,7 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/rosalierar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/Rosalierar">
         <img 
             alt="Visitors" 
