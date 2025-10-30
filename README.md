@@ -95,14 +95,17 @@
 
 <p align="Left">
   <samp> 
-  Game Jam - WCD Game Jam Lauro de Freitas
+  Game Jam - WCD Game Jam Lauro de Freitas 2024
 <p align="center">
  <samp> 
-  Game Jam - Spooktober 6th Annual Visual Novel Jam
+  Game Jam - Spooktober 6th Annual Visual Novel Jam 2024
 <p align="right">
  <samp> 
-  Game Jam - Crossing Latitudes
+  Game Jam - Crossing Latitudes 2024
   </samp> </p>
+<p align="center">
+ <samp> 
+  Game Jam - Crazy Web Multiplayer Jam 2025
 
 <h2 align="center"> <samp> 💻 Tech Stack </samp> </h2>
 
