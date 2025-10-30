@@ -93,6 +93,9 @@
 
 <h2 align="center"> <samp> 📝 Participations </samp> </h2>
 
+<p align="center">
+ <samp> 
+  Event - SBgames 2025
 <p align="Left">
   <samp> 
   Game Jam - WCD Game Jam Lauro de Freitas 2024
@@ -106,6 +109,9 @@
 <p align="center">
  <samp> 
   Game Jam - Crazy Web Multiplayer Jam 2025
+<p align="Left">
+  <samp> 
+  Game Jam - Game Jam Plus 2025/26
 
 <h2 align="center"> <samp> 💻 Tech Stack </samp> </h2>
 
